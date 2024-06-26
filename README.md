@@ -1,6 +1,6 @@
 # Sorting Algorithm Visualizer
 
-Soring Algorithm Visualizer using built using React
+Soring Algorithm Visualizer built using React
 
 ## Run Locally
 
