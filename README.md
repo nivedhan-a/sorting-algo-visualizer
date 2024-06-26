@@ -1,4 +1,4 @@
-# Multiplayer Chess Game
+# Sorting Algorithm Visualizer
 
 Soring Algorithm Visualizer using built using React
 
